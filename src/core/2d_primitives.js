@@ -435,7 +435,7 @@ p5.prototype.quad = function() {
 *@alt
 * 55x55 white rect with black outline in mid-right of canvas. 
 * 55x55 white rect with black outline and rounded edges in mid-right of canvas.
-* 55x55 white rect with black outline and rounded edges of different radii in mid-right of canvas.
+* 55x55 white rect with rounded edges of different radii in mid-right of canvas.
 *
 */
 /**

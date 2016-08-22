@@ -416,7 +416,7 @@ p5.prototype.hue = function(c) {
  * </div>
  *
  * @alt
- * 4 rects one tan, brown, brownish purple and purple. Each with white outlines & 20x60.
+ * 4 rects tan, brown, brown-purple and purple. Each with white outlines & 20x60.
  *
  */
 

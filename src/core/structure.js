@@ -68,7 +68,7 @@ p5.prototype.exit = function() {
  *
  *@alt
  * 113 pixel long line extending from top-left to bottom right of canvas. 
- * horizontal line moves slowly from left. Loops but stops on mouse press. //no loop
+ * horizontal line moves slowly from left. Loops but stops on mouse press. 
  *
  */
 p5.prototype.noLoop = function() {

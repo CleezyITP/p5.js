@@ -97,7 +97,7 @@ p5.prototype.ellipseMode = function(m) {
  * </div>
  *
  *@alt
- * 2 pixelated 36x36 white ellipses to the left and right of center on black background.
+ * 2 pixelated 36x36 white ellipses to the left and right of center on black.
  *
  */
 p5.prototype.noSmooth = function() {
@@ -157,7 +157,7 @@ p5.prototype.noSmooth = function() {
  * </div>
  *
  *@alt
- * 50x50 white rect at center and 25x25 grey rect in the top left corner of the other.
+ * 50x50 white rect at center & 25x25 grey rect at top left corner.
  * 50x50 white rect at center and 25x25 grey rect in the center of the other.
  *
  */
